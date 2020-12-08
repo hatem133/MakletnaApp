@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Makletna</string>
+    <string name="forgotpwd">نسيت كلمة السّر</string>
+    <string name="linklogin">لديك حساب ؟ تسجيل الدّخول</string>
+    <string name="linksignup">ليس لديك حساب ؟ إنشاء حساب جديد</string>
+    <string name="login">تسجيل الدّخول</string>
+    <string name="signup">إنشاء حساب جديد</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="name">الإسم و اللّقب</string>
+    <string name="code">رمز الأمان</string>
+    <string name="password">كلمة السّر</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

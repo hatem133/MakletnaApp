@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516002814452",
+    "firebase_url": "https://makletna-a2322.firebaseio.com",
+    "project_id": "makletna-a2322",
+    "storage_bucket": "makletna-a2322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516002814452:android:e21ad4a81d0c7368b241a1",
+        "android_client_info": {
+          "package_name": "makletna.dev.makletna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516002814452-hprqkk15rptv989c0bk5s6tf22fh65d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "makletna.dev.makletna",
+            "certificate_hash": "15f56f46d83376600e2bc87500593adbd101e527"
+          }
+        },
+        {
+          "client_id": "516002814452-ebh3htuvtu734gvvockdv1kojomtp4nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Ykuecbwspd2s2gRKdYFQLk1OVpMCpkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516002814452-ebh3htuvtu734gvvockdv1kojomtp4nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

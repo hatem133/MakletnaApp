@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="القائمة الرّئيسيّة" />
+
+        <item
+            android:id="@+id/nav_reg"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="إدارة الجهات" />
+
+        <item
+            android:id="@+id/nav_plat"
+            android:icon="@drawable/ic_room_service_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="إدارة الأكلات" />
+
+        <item
+            android:id="@+id/nav_ads"
+            android:icon="@drawable/ic_airplay_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="إدارة الإعلانات" />
+
+        <item
+            android:id="@+id/nav_comment"
+            android:icon="@drawable/ic_comment_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="إدارة التّعليقات" />
+
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:iconTint="@android:color/white"
+            android:title="تسجيل الخروج" />
+
+
+    </group>
+
+
+</menu>
